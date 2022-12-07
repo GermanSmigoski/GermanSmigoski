@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm German Smigoski</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+<img src="https://user-images.githubusercontent.com/99193424/206316467-17a95d9c-33ba-44a4-a650-c634be7d521f.png"/>
 - 📫 How to reach me **germansmigoski2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
