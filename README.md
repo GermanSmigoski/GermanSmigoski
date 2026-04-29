@@ -84,14 +84,6 @@ Un sitio web elegante que rinde homenaje a las bibliotecas históricas más impr
 
 ---
 
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!-- Aquí GitHub Actions puede mostrar tu actividad reciente -->
-<!--END_SECTION:activity-->
-
----
-
 ## 📫 Conecta Conmigo
 
 <div align="center">
